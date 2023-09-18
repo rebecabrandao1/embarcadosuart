@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "bluetooth.h": "c",
+        "type_traits": "c"
+    }
+}
