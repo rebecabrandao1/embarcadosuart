@@ -20,5 +20,5 @@ sysbus LoadELF @../../../../Documents/PlatformIO/Projects/BLE_02/.pio/build/nrf5
 
 start;
 
-quit;
+
 
